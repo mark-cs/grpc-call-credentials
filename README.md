@@ -1,6 +1,6 @@
 # Example GRPC Call Credentials Usage
 
-This repository is the supporting code for the [GRPC Call Credentials in Java Guide](https://mark-cs.co.uk/posts/grpc-call-credentials-in-java/) from my [blog](https://mark-cs.co.uk).
+This repository is the supporting code for the [GRPC Call Credentials in Java Guide](https://mark-cs.co.uk/posts/2020/july/grpc-call-credentials-in-java/) from my [blog](https://mark-cs.co.uk).
 
 This assumes you have a working Java GRPC environment and that you know the basics when it comes to GRPC.
 
